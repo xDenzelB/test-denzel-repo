@@ -17,4 +17,14 @@
 1. Cool Animation
 1. Fun Games!!
 
-![](./https://thumbor.forbes.com/thumbor/640x640/https://blogs-images.forbes.com/forbestechcouncil/files/2019/01/canva-photo-editor-8-7.jpg?width=960)
+**Learn More about Coding**
+
+![](https://en.wikipedia.org/wiki/Coding)
+
+![](./src/assets/CodingPhoto.jpg)
+
+| coding  	| jobs     	| projects             	|   	|   	|
+|---------	|----------	|----------------------	|---	|---	|
+| html    	| websites 	| facebook/twitter/etc 	|   	|   	|
+|         	|          	|                      	|   	|   	|
+|         	|          	|                      	|   	|   	|
